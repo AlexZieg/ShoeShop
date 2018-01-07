@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name" translatable="false">Görtz Specials</string>
+    <string name="avbSize">Verfügbare Größen:</string>
+    <string name="btnService">Service Rufen</string>
+    <string name="savings">Sie sparen: </string>
+    <string name="percent" translatable="false">&#37;</string>
+
+    <!-- Damen Schuhe -->
+    <string name="shoeZeroFemaleName" translatable="false">Adidas Originals Sneaker STAN SMITH</string>
+    <string name="shoeZeroFemaleDescriptionLong">Ultimatives Comeback der Sneaker-Ikone STAN SMITH von Adidas Originals. Schon in den 70ern millionenfach verkauft, triumphiert er heute als Must-have aller Fashionistas.</string>
+    <string name="shoeZeroFemaleList">• antibakterielle OrthoLite®-Ausstattun "\n"• charakteristische Logomerkmale "\n"• Gummisohle mit griffigem Profil für guten Grip</string>
+    <string name="shoeZeroFemaleArtNumber" translatable="false">46462801</string>
+    <string name="shoeZeroFemaleNormPrice" translatable="false">99.95</string>
+    <string name="shoeZeroFemaleReducedPrice" translatable="false">79.95</string>
+
+    <string name="shoeOneFemaleName" translatable="false"> Apple of Eden Sandalette LARA </string>
+    <string name="shoeOneFemaleDescriptionLong">Diese modische Sandalette von Apple of Eden aus weichem Velours-Leder im Vintage-Look verleiht Sommer-Outfits ein stilvolles Finish. Weiche Lederriemen sorgen für Halt.</string>
+    <string name="shoeOneFemaleList">• wunderbar weiches Innenfutter aus Leder "\n"• besonders schön zu luftigen Kleidern und Röcken "\n"• Kontrastsohle mit starkem Profil</string>
+    <string name="shoeOneFemaleArtNumber" translatable="false">46846001</string>
+    <string name="shoeOneFemaleNormPrice" translatable="false">59.95</string>
+    <string name="shoeOneFemaleReducedPrice" translatable="false">49.95</string>
+
+    <string name="shoeTwoFemaleName" translatable="false"> Paul Green Klassik-Pumps</string>
+    <string name="shoeTwoFemaleDescriptionLong">Schmücken Sie sich mit den bequemen Pumps von Paul Green. Der Absatz hat eine angenehme Alltags- und Büro-Höhe, das samtige Leder in Schwarz ist weich und anschmiegsam.</string>
+    <string name="shoeTwoFemaleList">• höchster Tragekomfort durch Lederinnenausstattung "\n"• lederbezogener Block-Absatz "\n"• leichte TPU-Gummisohle</string>
+    <string name="shoeTwoFemaleArtNumber" translatable="false">45860201</string>
+    <string name="shoeTwoFemaleNormPrice" translatable="false">120.00</string>
+    <string name="shoeTwoFemaleReducedPrice" translatable="false">99.95</string>
+
+    <string name="shoeThreeFemaleName" translatable="false"> Ludwig Görtz Leder-Stiefelette</string>
+    <string name="shoeThreeFemaleDescriptionLong">Dieses formschöne Modell kommt aus dem Hause Ludwig Görtz und wird Ihre Garderobe stilvoll vollenden. Das feine Glattleder in Schwarz fasziniert mit lässigem Schnallen-Detail.</string>
+    <string name="shoeThreeFemaleList">• komplette Vollleder-Innenausstattung "\n"• für Ladies, die es ewig edel und gleichsam leger lieben "\n"• rutschhemmende Gummi-Laufsohle mit Profil</string>
+    <string name="shoeThreeFemaleArtNumber" translatable="false">45896101</string>
+    <string name="shoeThreeFemaleNormPrice" translatable="false">240.00</string>
+    <string name="shoeThreeFemaleReducedPrice" translatable="false">140.00</string>
+
+    <string name="shoeFourFemaleName" translatable="false"> Nike AIR HUARACHE RUN</string>
+    <string name="shoeFourFemaleDescriptionLong">Der "Run Ultra" von Nike aus Flywire-Fasern in Silber für eine stützende und individuelle Passform, ist ideal als Sportschuh geeignet - und ist natürlich auch style-technisch top.</string>
+    <string name="shoeFourFemaleList">• sockenähnlicher Einstieg "\n"• elastischer Fersenbereich mit stützendem Riemen "\n"• Waffelaußensohle für Traktion</string>
+    <string name="shoeFourFemaleArtNumber" translatable="false">45021009</string>
+    <string name="shoeFourFemaleNormPrice" translatable="false">130.00</string>
+    <string name="shoeFourFemaleReducedPrice" translatable="false">99.95</string>
+
+    <string name="shoeFiveFemaleName" translatable="false">Gabor Nubuk-Sandalette</string>
+    <string name="shoeFiveFemaleDescriptionLong">Dieses kesse Modell von Gabor ist der perfekte Begleiter für warme Sommertage. Das weiche Nubukleder ist auf dem Spann leicht gerafft und zeigt sich dadurch besonders modisch.</string>
+    <string name="shoeFiveFemaleList">• weich gepolsterte Innensohle "\n"• schließt in der Ferse mit einer kleinen Schnalle "\n"• rutschhemmende Synthetiksohle mit einer moderaten Absatzhöhe</string>
+    <string name="shoeFiveFemaleArtNumber" translatable="false">46378601</string>
+    <string name="shoeFiveFemaleNormPrice" translatable="false">79.95</string>
+    <string name="shoeFiveFemaleReducedPrice" translatable="false">59.95</string>
+
+    <string name="shoeSixFemaleName" translatable="false">Buffalo Strass-Ballerina</string>
+    <string name="shoeSixFemaleDescriptionLong">Die Ballerinas von Buffalo mit Lieblings-Potenzial! In leichter Ausführung kommt er daher und begeistert in puristischem Schwarz mit auffälligem Strass-Dekor.</string>
+    <string name="shoeSixFemaleList">• angenehm weiches Innenfutter "\n"• toller Kombi-Partner zu vielen Looks "\n"• rutschhemmende Laufsohle</string>
+    <string name="shoeSixFemaleArtNumber" translatable="false">46109201</string>
+    <string name="shoeSixFemaleNormPrice" translatable="false">69.95</string>
+    <string name="shoeSixFemaleReducedPrice" translatable="false">49.95</string>
+
+    <string name="shoeSevenFemaleName" translatable="false">Converse Sneaker BREAKPOINT OX</string>
+    <string name="shoeSevenFemaleDescriptionLong">Die feste Variante des klassischen Sneaker von Converse kommt hier aus leichtem Canvas in Gold. In Metallic-Optik wird er mit plakativem Finish zum neuen Liebling der Saison.</string>
+    <string name="shoeSevenFemaleList">• angenehm weiches Innenfutter "\n"• macht jedes Outfit zum Fashion-Hit "\n"• markante Laufsohle in Weiß</string>
+    <string name="shoeSevenFemaleArtNumber" translatable="false">46147702</string>
+    <string name="shoeSevenFemaleNormPrice" translatable="false">74.95</string>
+    <string name="shoeSevenFemaleReducedPrice" translatable="false">59.95</string>
+
+    <string name="shoeEightFemaleName" translatable="false">Drievholt Tassel-Ballerina</string>
+    <string name="shoeEightFemaleDescriptionLong">Dieses Item veredelt Ihre Herbst-Garderobe aufs Feinste! Edler Ballerina der Trendmarke Another A aus Veloursleder in Blau mit Lyra-Lochung und Troddeln auf dem Blatt.</string>
+    <string name="shoeEightFemaleList">• angenehm weiches Innenfutter "\n"• feminin oder elegant gestylt - ein wahrer Blickfang "\n"• rutschhemmende Laufsohle</string>
+    <string name="shoeEightFemaleArtNumber" translatable="false">46171501</string>
+    <string name="shoeEightFemaleNormPrice" translatable="false">79.95</string>
+    <string name="shoeEightFemaleReducedPrice" translatable="false">59.95</string>
+
+    <string name="shoeNineFemaleName" translatable="false"> Marc O\'Polo Trend-Sneaker</string>
+    <string name="shoeNineFemaleDescriptionLong">Marc O\'Polo vereint gekonnt sportliche Elemente mit femininem Chic. Aus einem Hellgrauen Veloursleder mit Logo-Details, lässt sich der Sneaker zur Jeans oder zum Kleid kombinieren.</string>
+    <string name="shoeNineFemaleList">• weich gepolsterter Schaftrand "\n"• toller Kombi-Partner zu sportiven Looks "\n"• flexible Laufsohle mit rutschhemmendem Profil</string>
+    <string name="shoeNineFemaleArtNumber" translatable="false">46094101</string>
+    <string name="shoeNineFemaleNormPrice" translatable="false">99.95</string>
+    <string name="shoeNineFemaleReducedPrice" translatable="false">79.95</string>
+    <string name="artNum" translatable="false">"Art. Nr.: "</string>
+    <string name="wrogPassword">Falsches Passwort</string>
+    <string name="comingSoon">Coming Soon</string>
+    <string name="admin">admin</string>
+    <string name="customer">customer</string>
+
+</resources>

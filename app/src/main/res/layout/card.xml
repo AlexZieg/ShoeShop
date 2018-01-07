@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_image"
+        app:cardCornerRadius="4dp"
+        app:cardElevation="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/idSmallImage"
+                android:layout_width="125dp"
+                android:layout_height="125dp"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="@dimen/margin_image"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                app:srcCompat="@drawable/shoesample2" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginEnd="@dimen/margin_text"
+                android:layout_marginStart="@dimen/margin_text"
+                android:background="#1f000000"
+                />
+
+
+            <TextView
+                android:id="@+id/txtHeadline"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/margin_text"
+                android:layout_weight="1"
+                android:text="Schuhname"
+                android:textAlignment="center"
+                android:textAppearance="@android:style/TextAppearance.Material.Medium"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/txtOldPrice"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/margin_text"
+                    android:layout_weight="1"
+                    android:text="89,99 €"
+                    android:textAlignment="textEnd"
+                    android:textAppearance="@android:style/TextAppearance.Material.Small" />
+
+                <TextView
+                    android:id="@+id/txtNewPrice"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/margin_text"
+                    android:layout_weight="1"
+                    android:text="49,99 €"
+                    android:textAppearance="@android:style/TextAppearance.Material.Small"
+                    android:textColor="@color/colorAccent" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
